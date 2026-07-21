@@ -24,6 +24,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/AkshatSharma0312/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/AkshatSharma0312/leetcode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/AkshatSharma0312/leetcode/tree/master/0069-sqrtx) |
 ## Array
 |  |
 | ------- |
@@ -49,4 +50,5 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/AkshatSharma0312/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/AkshatSharma0312/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
