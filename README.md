@@ -6,6 +6,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AkshatSharma0312/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/AkshatSharma0312/leetcode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/AkshatSharma0312/leetcode/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [0027-remove-element](https://github.com/AkshatSharma0312/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/AkshatSharma0312/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/AkshatSharma0312/leetcode/tree/master/0066-plus-one) |
+| [0217-contains-duplicate](https://github.com/AkshatSharma0312/leetcode/tree/master/0217-contains-duplicate) |
 ## Trie
 |  |
 | ------- |
@@ -59,4 +61,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AkshatSharma0312/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/AkshatSharma0312/leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
