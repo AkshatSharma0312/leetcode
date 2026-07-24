@@ -65,4 +65,8 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/AkshatSharma0312/leetcode/tree/master/0217-contains-duplicate) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/AkshatSharma0312/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
