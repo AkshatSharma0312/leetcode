@@ -23,6 +23,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/AkshatSharma0312/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AkshatSharma0312/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/AkshatSharma0312/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/AkshatSharma0312/leetcode/tree/master/0066-plus-one) |
