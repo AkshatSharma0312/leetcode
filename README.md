@@ -38,6 +38,7 @@
 | [0035-search-insert-position](https://github.com/AkshatSharma0312/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/AkshatSharma0312/leetcode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/AkshatSharma0312/leetcode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/AkshatSharma0312/leetcode/tree/master/0283-move-zeroes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AkshatSharma0312/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Trie
 |  |
@@ -49,6 +50,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AkshatSharma0312/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AkshatSharma0312/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AkshatSharma0312/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0283-move-zeroes](https://github.com/AkshatSharma0312/leetcode/tree/master/0283-move-zeroes) |
 ## String Matching
 |  |
 | ------- |
