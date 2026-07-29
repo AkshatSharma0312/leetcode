@@ -28,6 +28,7 @@
 | [0013-roman-to-integer](https://github.com/AkshatSharma0312/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/AkshatSharma0312/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/AkshatSharma0312/leetcode/tree/master/0069-sqrtx) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AkshatSharma0312/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Array
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AkshatSharma0312/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/AkshatSharma0312/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/AkshatSharma0312/leetcode/tree/master/0283-move-zeroes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AkshatSharma0312/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AkshatSharma0312/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Trie
 |  |
@@ -74,6 +76,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/AkshatSharma0312/leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/AkshatSharma0312/leetcode/tree/master/0217-contains-duplicate) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AkshatSharma0312/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AkshatSharma0312/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Database
 |  |
