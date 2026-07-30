@@ -96,4 +96,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AkshatSharma0312/leetcode/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/AkshatSharma0312/leetcode/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
