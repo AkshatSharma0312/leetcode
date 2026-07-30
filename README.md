@@ -28,6 +28,7 @@
 | [0013-roman-to-integer](https://github.com/AkshatSharma0312/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/AkshatSharma0312/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/AkshatSharma0312/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/AkshatSharma0312/leetcode/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AkshatSharma0312/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Array
 |  |
@@ -87,4 +88,12 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AkshatSharma0312/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AkshatSharma0312/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AkshatSharma0312/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
