@@ -30,6 +30,7 @@
 | [0066-plus-one](https://github.com/AkshatSharma0312/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/AkshatSharma0312/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AkshatSharma0312/leetcode/tree/master/0070-climbing-stairs) |
+| [0263-ugly-number](https://github.com/AkshatSharma0312/leetcode/tree/master/0263-ugly-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AkshatSharma0312/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Array
 |  |
