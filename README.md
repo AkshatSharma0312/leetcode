@@ -7,6 +7,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/AkshatSharma0312/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/AkshatSharma0312/leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/AkshatSharma0312/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/AkshatSharma0312/leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AkshatSharma0312/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## String
 |  |
@@ -33,6 +34,7 @@
 | [0069-sqrtx](https://github.com/AkshatSharma0312/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AkshatSharma0312/leetcode/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/AkshatSharma0312/leetcode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/AkshatSharma0312/leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AkshatSharma0312/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Array
 |  |
@@ -49,6 +51,7 @@
 | [0088-merge-sorted-array](https://github.com/AkshatSharma0312/leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkshatSharma0312/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/AkshatSharma0312/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/AkshatSharma0312/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AkshatSharma0312/leetcode/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AkshatSharma0312/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AkshatSharma0312/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -81,6 +84,7 @@
 | [0035-search-insert-position](https://github.com/AkshatSharma0312/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/AkshatSharma0312/leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkshatSharma0312/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/AkshatSharma0312/leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -92,6 +96,7 @@
 | [0075-sort-colors](https://github.com/AkshatSharma0312/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AkshatSharma0312/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/AkshatSharma0312/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/AkshatSharma0312/leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AkshatSharma0312/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AkshatSharma0312/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AkshatSharma0312/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -124,4 +129,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AkshatSharma0312/leetcode/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/AkshatSharma0312/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
