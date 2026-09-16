@@ -20,6 +20,7 @@
 | [0058-length-of-last-word](https://github.com/AkshatSharma0312/leetcode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/AkshatSharma0312/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0482-license-key-formatting](https://github.com/AkshatSharma0312/leetcode/tree/master/0482-license-key-formatting) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/AkshatSharma0312/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/AkshatSharma0312/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
 |  |
@@ -37,6 +38,7 @@
 | [0263-ugly-number](https://github.com/AkshatSharma0312/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/AkshatSharma0312/leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AkshatSharma0312/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/AkshatSharma0312/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Array
 |  |
 | ------- |
@@ -135,4 +137,12 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/AkshatSharma0312/leetcode/tree/master/0268-missing-number) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/AkshatSharma0312/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/AkshatSharma0312/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
