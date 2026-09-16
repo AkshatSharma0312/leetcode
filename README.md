@@ -20,6 +20,7 @@
 | [0058-length-of-last-word](https://github.com/AkshatSharma0312/leetcode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/AkshatSharma0312/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0482-license-key-formatting](https://github.com/AkshatSharma0312/leetcode/tree/master/0482-license-key-formatting) |
+| [1768-merge-strings-alternately](https://github.com/AkshatSharma0312/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/AkshatSharma0312/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkshatSharma0312/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/AkshatSharma0312/leetcode/tree/master/0283-move-zeroes) |
+| [1768-merge-strings-alternately](https://github.com/AkshatSharma0312/leetcode/tree/master/1768-merge-strings-alternately) |
 ## String Matching
 |  |
 | ------- |
