@@ -62,6 +62,7 @@
 | [0217-contains-duplicate](https://github.com/AkshatSharma0312/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AkshatSharma0312/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AkshatSharma0312/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/AkshatSharma0312/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AkshatSharma0312/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AkshatSharma0312/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0605-can-place-flowers](https://github.com/AkshatSharma0312/leetcode/tree/master/0605-can-place-flowers) |
@@ -86,6 +87,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/AkshatSharma0312/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkshatSharma0312/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/AkshatSharma0312/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/AkshatSharma0312/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1768-merge-strings-alternately](https://github.com/AkshatSharma0312/leetcode/tree/master/1768-merge-strings-alternately) |
 ## String Matching
 |  |
@@ -103,6 +105,7 @@
 | [0162-find-peak-element](https://github.com/AkshatSharma0312/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkshatSharma0312/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/AkshatSharma0312/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/AkshatSharma0312/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -152,6 +155,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/AkshatSharma0312/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/AkshatSharma0312/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -164,4 +168,12 @@
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/AkshatSharma0312/leetcode/tree/master/0605-can-place-flowers) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/AkshatSharma0312/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/AkshatSharma0312/leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
