@@ -6,6 +6,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AkshatSharma0312/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/AkshatSharma0312/leetcode/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/AkshatSharma0312/leetcode/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/AkshatSharma0312/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AkshatSharma0312/leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/AkshatSharma0312/leetcode/tree/master/0290-word-pattern) |
@@ -54,6 +55,7 @@
 | [0027-remove-element](https://github.com/AkshatSharma0312/leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AkshatSharma0312/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/AkshatSharma0312/leetcode/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/AkshatSharma0312/leetcode/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/AkshatSharma0312/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/AkshatSharma0312/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AkshatSharma0312/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
