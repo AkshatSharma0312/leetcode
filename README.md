@@ -43,6 +43,7 @@
 | [0263-ugly-number](https://github.com/AkshatSharma0312/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/AkshatSharma0312/leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AkshatSharma0312/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0788-rotated-digits](https://github.com/AkshatSharma0312/leetcode/tree/master/0788-rotated-digits) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AkshatSharma0312/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Array
 |  |
@@ -149,6 +150,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AkshatSharma0312/leetcode/tree/master/0070-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/AkshatSharma0312/leetcode/tree/master/0788-rotated-digits) |
 ## Memoization
 |  |
 | ------- |
