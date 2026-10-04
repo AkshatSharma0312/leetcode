@@ -118,6 +118,7 @@
 | [0162-find-peak-element](https://github.com/AkshatSharma0312/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkshatSharma0312/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/AkshatSharma0312/leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/AkshatSharma0312/leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/AkshatSharma0312/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/AkshatSharma0312/leetcode/tree/master/0493-reverse-pairs) |
 ## Divide and Conquer
@@ -219,4 +220,8 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/AkshatSharma0312/leetcode/tree/master/0326-power-of-three) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/AkshatSharma0312/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
