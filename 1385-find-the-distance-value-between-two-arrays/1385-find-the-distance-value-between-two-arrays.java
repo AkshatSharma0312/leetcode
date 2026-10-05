@@ -5,17 +5,18 @@ class Solution {
 
         for (int i = 0; i < arr1.length; i++) {
 
-            boolean valid = true;
+            int j = 0;
 
-            for (int j = 0; j < arr2.length; j++) {
+            while (j < arr2.length) {
 
                 if (Math.abs(arr1[i] - arr2[j]) <= d) {
-                    valid = false;
                     break;
                 }
+
+                j++;
             }
 
-            if (valid) {
+            if (j == arr2.length) {
                 count++;
             }
         }
