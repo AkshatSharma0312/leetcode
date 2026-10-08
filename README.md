@@ -88,6 +88,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AkshatSharma0312/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AkshatSharma0312/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AkshatSharma0312/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/AkshatSharma0312/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AkshatSharma0312/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Trie
 |  |
@@ -243,4 +244,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/AkshatSharma0312/leetcode/tree/master/0278-first-bad-version) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/AkshatSharma0312/leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
