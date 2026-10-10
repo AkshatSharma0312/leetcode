@@ -93,6 +93,7 @@
 | [1470-shuffle-the-array](https://github.com/AkshatSharma0312/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/AkshatSharma0312/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/AkshatSharma0312/leetcode/tree/master/1672-richest-customer-wealth) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AkshatSharma0312/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AkshatSharma0312/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Trie
 |  |
@@ -142,6 +143,7 @@
 | [0704-binary-search](https://github.com/AkshatSharma0312/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AkshatSharma0312/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AkshatSharma0312/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AkshatSharma0312/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -262,4 +264,8 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AkshatSharma0312/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Counting
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AkshatSharma0312/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
