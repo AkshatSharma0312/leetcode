@@ -85,6 +85,7 @@
 | [0605-can-place-flowers](https://github.com/AkshatSharma0312/leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AkshatSharma0312/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/AkshatSharma0312/leetcode/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/AkshatSharma0312/leetcode/tree/master/0704-binary-search) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AkshatSharma0312/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AkshatSharma0312/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AkshatSharma0312/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -137,6 +138,7 @@
 | [0278-first-bad-version](https://github.com/AkshatSharma0312/leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/AkshatSharma0312/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/AkshatSharma0312/leetcode/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/AkshatSharma0312/leetcode/tree/master/0704-binary-search) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AkshatSharma0312/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Divide and Conquer
 |  |
