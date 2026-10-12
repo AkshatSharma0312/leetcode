@@ -269,4 +269,8 @@
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AkshatSharma0312/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/AkshatSharma0312/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
