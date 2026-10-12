@@ -46,6 +46,7 @@
 | [0263-ugly-number](https://github.com/AkshatSharma0312/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/AkshatSharma0312/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/AkshatSharma0312/leetcode/tree/master/0326-power-of-three) |
+| [0441-arranging-coins](https://github.com/AkshatSharma0312/leetcode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/AkshatSharma0312/leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AkshatSharma0312/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/AkshatSharma0312/leetcode/tree/master/0788-rotated-digits) |
@@ -140,6 +141,7 @@
 | [0268-missing-number](https://github.com/AkshatSharma0312/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/AkshatSharma0312/leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/AkshatSharma0312/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0441-arranging-coins](https://github.com/AkshatSharma0312/leetcode/tree/master/0441-arranging-coins) |
 | [0493-reverse-pairs](https://github.com/AkshatSharma0312/leetcode/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/AkshatSharma0312/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AkshatSharma0312/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
