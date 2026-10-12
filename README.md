@@ -46,6 +46,7 @@
 | [0263-ugly-number](https://github.com/AkshatSharma0312/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/AkshatSharma0312/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/AkshatSharma0312/leetcode/tree/master/0326-power-of-three) |
+| [0507-perfect-number](https://github.com/AkshatSharma0312/leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AkshatSharma0312/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/AkshatSharma0312/leetcode/tree/master/0788-rotated-digits) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AkshatSharma0312/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
