@@ -68,6 +68,7 @@
 | [0035-search-insert-position](https://github.com/AkshatSharma0312/leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/AkshatSharma0312/leetcode/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/AkshatSharma0312/leetcode/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/AkshatSharma0312/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AkshatSharma0312/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AkshatSharma0312/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AkshatSharma0312/leetcode/tree/master/0088-merge-sorted-array) |
@@ -134,6 +135,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AkshatSharma0312/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AkshatSharma0312/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/AkshatSharma0312/leetcode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/AkshatSharma0312/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AkshatSharma0312/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AkshatSharma0312/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/AkshatSharma0312/leetcode/tree/master/0162-find-peak-element) |
@@ -262,6 +264,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/AkshatSharma0312/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1672-richest-customer-wealth](https://github.com/AkshatSharma0312/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Ternary Search
 |  |
