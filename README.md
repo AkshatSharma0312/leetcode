@@ -9,6 +9,7 @@
 | [0013-roman-to-integer](https://github.com/AkshatSharma0312/leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/AkshatSharma0312/leetcode/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/AkshatSharma0312/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AkshatSharma0312/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AkshatSharma0312/leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/AkshatSharma0312/leetcode/tree/master/0290-word-pattern) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AkshatSharma0312/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -25,6 +26,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AkshatSharma0312/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/AkshatSharma0312/leetcode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/AkshatSharma0312/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/AkshatSharma0312/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/AkshatSharma0312/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/AkshatSharma0312/leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/AkshatSharma0312/leetcode/tree/master/0412-fizz-buzz) |
@@ -172,6 +174,7 @@
 | [0075-sort-colors](https://github.com/AkshatSharma0312/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AkshatSharma0312/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/AkshatSharma0312/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AkshatSharma0312/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AkshatSharma0312/leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AkshatSharma0312/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AkshatSharma0312/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
