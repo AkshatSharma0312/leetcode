@@ -99,6 +99,7 @@
 | [0704-binary-search](https://github.com/AkshatSharma0312/leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AkshatSharma0312/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AkshatSharma0312/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/AkshatSharma0312/leetcode/tree/master/0867-transpose-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AkshatSharma0312/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AkshatSharma0312/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AkshatSharma0312/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -281,6 +282,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AkshatSharma0312/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AkshatSharma0312/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/AkshatSharma0312/leetcode/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/AkshatSharma0312/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Ternary Search
 |  |
@@ -298,4 +300,5 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/AkshatSharma0312/leetcode/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/AkshatSharma0312/leetcode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
