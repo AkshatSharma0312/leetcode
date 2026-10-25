@@ -97,6 +97,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/AkshatSharma0312/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/AkshatSharma0312/leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/AkshatSharma0312/leetcode/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/AkshatSharma0312/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AkshatSharma0312/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AkshatSharma0312/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AkshatSharma0312/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -156,6 +157,7 @@
 | [0441-arranging-coins](https://github.com/AkshatSharma0312/leetcode/tree/master/0441-arranging-coins) |
 | [0493-reverse-pairs](https://github.com/AkshatSharma0312/leetcode/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/AkshatSharma0312/leetcode/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/AkshatSharma0312/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AkshatSharma0312/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AkshatSharma0312/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/AkshatSharma0312/leetcode/tree/master/1539-kth-missing-positive-number) |
