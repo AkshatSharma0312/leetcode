@@ -79,6 +79,7 @@
 | [0075-sort-colors](https://github.com/AkshatSharma0312/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AkshatSharma0312/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AkshatSharma0312/leetcode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/AkshatSharma0312/leetcode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AkshatSharma0312/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AkshatSharma0312/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AkshatSharma0312/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -197,6 +198,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AkshatSharma0312/leetcode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/AkshatSharma0312/leetcode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AkshatSharma0312/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0788-rotated-digits](https://github.com/AkshatSharma0312/leetcode/tree/master/0788-rotated-digits) |
 ## Memoization
