@@ -76,6 +76,7 @@
 | [0035-search-insert-position](https://github.com/AkshatSharma0312/leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/AkshatSharma0312/leetcode/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/AkshatSharma0312/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/AkshatSharma0312/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/AkshatSharma0312/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/AkshatSharma0312/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AkshatSharma0312/leetcode/tree/master/0075-sort-colors) |
@@ -290,6 +291,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AkshatSharma0312/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/AkshatSharma0312/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/AkshatSharma0312/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AkshatSharma0312/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/AkshatSharma0312/leetcode/tree/master/0867-transpose-matrix) |
@@ -310,6 +312,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AkshatSharma0312/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/AkshatSharma0312/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/AkshatSharma0312/leetcode/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/AkshatSharma0312/leetcode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
